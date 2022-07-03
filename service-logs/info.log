@@ -1,0 +1,84 @@
+2022-06-19 09:08:33,777 INFO org.springframework.boot.StartupInfoLogger [main] Starting ZealOaApplication using Java 1.8.0_271 on DESKTOP-B61RHV2 with PID 14984 (D:\java\zeal_oa\target\classes started by 86185 in D:\java\zeal_oa)
+2022-06-19 09:08:33,783 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-19 09:08:34,500 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-06-19 09:08:34,507 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:08:34,507 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-06-19 09:08:34,508 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-19 09:08:34,630 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-06-19 09:08:34,631 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 819 ms
+2022-06-19 09:08:35,170 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:08:35,182 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-19 09:08:35,199 INFO org.springframework.boot.StartupInfoLogger [main] Started ZealOaApplication in 1.684 seconds (JVM running for 2.68)
+2022-06-19 09:08:59,837 INFO com.alibaba.druid.pool.DruidDataSource [SpringApplicationShutdownHook] {dataSource-0} closing ...
+2022-06-19 09:09:03,644 INFO org.springframework.boot.StartupInfoLogger [main] Starting ZealOaApplication using Java 1.8.0_271 on DESKTOP-B61RHV2 with PID 11140 (D:\java\zeal_oa\target\classes started by 86185 in D:\java\zeal_oa)
+2022-06-19 09:09:03,650 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-19 09:09:04,273 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-06-19 09:09:04,279 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:09:04,280 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-06-19 09:09:04,280 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-19 09:09:04,383 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-06-19 09:09:04,383 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 706 ms
+2022-06-19 09:09:04,856 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:09:04,866 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-19 09:09:04,882 INFO org.springframework.boot.StartupInfoLogger [main] Started ZealOaApplication in 1.498 seconds (JVM running for 3.606)
+2022-06-19 09:09:42,255 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-19 09:09:42,255 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-06-19 09:09:42,257 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 2 ms
+2022-06-19 09:11:06,053 INFO com.alibaba.druid.pool.DruidDataSource [SpringApplicationShutdownHook] {dataSource-0} closing ...
+2022-06-19 09:11:10,043 INFO org.springframework.boot.StartupInfoLogger [main] Starting ZealOaApplication using Java 1.8.0_271 on DESKTOP-B61RHV2 with PID 13980 (D:\java\zeal_oa\target\classes started by 86185 in D:\java\zeal_oa)
+2022-06-19 09:11:10,049 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-19 09:11:10,656 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-06-19 09:11:10,661 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:11:10,662 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-06-19 09:11:10,662 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-19 09:11:10,759 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-06-19 09:11:10,759 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 685 ms
+2022-06-19 09:11:11,152 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-06-19 09:11:11,291 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:11:11,305 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-19 09:11:11,327 INFO org.springframework.boot.StartupInfoLogger [main] Started ZealOaApplication in 1.521 seconds (JVM running for 2.315)
+2022-06-19 09:15:49,465 INFO com.alibaba.druid.pool.DruidDataSource [SpringApplicationShutdownHook] {dataSource-0} closing ...
+2022-06-19 09:15:52,635 INFO org.springframework.boot.StartupInfoLogger [main] Starting ZealOaApplication using Java 1.8.0_271 on DESKTOP-B61RHV2 with PID 14508 (D:\java\zeal_oa\target\classes started by 86185 in D:\java\zeal_oa)
+2022-06-19 09:15:52,640 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-19 09:15:53,234 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-06-19 09:15:53,240 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:15:53,240 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-06-19 09:15:53,241 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-19 09:15:53,343 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-06-19 09:15:53,343 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 677 ms
+2022-06-19 09:15:53,811 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:15:53,822 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-19 09:15:53,838 INFO org.springframework.boot.StartupInfoLogger [main] Started ZealOaApplication in 1.445 seconds (JVM running for 2.419)
+2022-06-19 09:16:14,042 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-19 09:16:14,043 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-06-19 09:16:14,044 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-06-19 09:16:56,282 INFO com.alibaba.druid.pool.DruidDataSource [SpringApplicationShutdownHook] {dataSource-0} closing ...
+2022-06-19 09:17:04,868 INFO org.springframework.boot.StartupInfoLogger [main] Starting ZealOaApplication using Java 1.8.0_271 on DESKTOP-B61RHV2 with PID 16520 (D:\java\zeal_oa\target\classes started by 86185 in D:\java\zeal_oa)
+2022-06-19 09:17:04,874 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-19 09:17:05,468 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-06-19 09:17:05,474 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:17:05,474 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-06-19 09:17:05,474 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-19 09:17:05,568 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-06-19 09:17:05,568 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 669 ms
+2022-06-19 09:17:05,936 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-06-19 09:17:06,081 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:17:06,092 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-19 09:17:06,109 INFO org.springframework.boot.StartupInfoLogger [main] Started ZealOaApplication in 1.474 seconds (JVM running for 2.27)
+2022-06-19 09:17:57,285 INFO org.apache.juli.logging.DirectJDKLog [http-nio-8080-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-06-19 09:17:57,285 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Initializing Servlet 'dispatcherServlet'
+2022-06-19 09:17:57,286 INFO org.springframework.web.servlet.FrameworkServlet [http-nio-8080-exec-1] Completed initialization in 1 ms
+2022-06-19 09:19:13,433 INFO com.alibaba.druid.pool.DruidDataSource [SpringApplicationShutdownHook] {dataSource-0} closing ...
+2022-06-19 09:19:15,952 INFO org.springframework.boot.StartupInfoLogger [main] Starting ZealOaApplication using Java 1.8.0_271 on DESKTOP-B61RHV2 with PID 6676 (D:\java\zeal_oa\target\classes started by 86185 in D:\java\zeal_oa)
+2022-06-19 09:19:15,958 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-06-19 09:19:16,575 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port(s): 8080 (http)
+2022-06-19 09:19:16,581 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:19:16,581 INFO org.apache.juli.logging.DirectJDKLog [main] Starting service [Tomcat]
+2022-06-19 09:19:16,581 INFO org.apache.juli.logging.DirectJDKLog [main] Starting Servlet engine: [Apache Tomcat/9.0.63]
+2022-06-19 09:19:16,682 INFO org.apache.juli.logging.DirectJDKLog [main] Initializing Spring embedded WebApplicationContext
+2022-06-19 09:19:16,683 INFO org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 700 ms
+2022-06-19 09:19:17,060 INFO org.springframework.boot.autoconfigure.web.servlet.WelcomePageHandlerMapping [main] Adding welcome page template: index
+2022-06-19 09:19:17,189 INFO org.apache.juli.logging.DirectJDKLog [main] Starting ProtocolHandler ["http-nio-8080"]
+2022-06-19 09:19:17,199 INFO org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port(s): 8080 (http) with context path ''
+2022-06-19 09:19:17,216 INFO org.springframework.boot.StartupInfoLogger [main] Started ZealOaApplication in 1.498 seconds (JVM running for 2.306)
+2022-06-19 09:22:19,394 INFO com.alibaba.druid.pool.DruidDataSource [SpringApplicationShutdownHook] {dataSource-0} closing ...

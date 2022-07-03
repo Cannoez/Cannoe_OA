@@ -1,0 +1,3 @@
+2022-06-19 09:09:42,270 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] No mapping for GET /
+2022-06-19 09:09:42,330 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-2] No mapping for GET /favicon.ico
+2022-06-19 09:16:14,064 WARN org.springframework.web.servlet.DispatcherServlet [http-nio-8080-exec-1] No mapping for GET /index.html
